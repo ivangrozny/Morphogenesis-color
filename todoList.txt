@@ -1,0 +1,28 @@
+TODO :
+- languages : fr / en
+- scripter un testeur automatique
+
+
+///////// img.html ////////////
+- animation live d'un ajout de nouveau pixel (ajax?)
+- zoom initial : if( height < width ) cristal.height = user.window.height - 200px
+
+
+gui :
+- if ( pixel.size > 50 || mouseDown ) colorName.visible
+- scroll -> zoom +/- 
+- clic & drag -> move cristal
+- bouton : enter new name ?
+- bouton : enter new color ?
+- bouton : fr/en
+- bouton : "à propos"
+
+///////// word.html ////////////
+- limitation à 100 characteres
+- suggestion d'entrées similaires
+
+
+///////// color.html ////////////
+- init : bouton "valider" inactif 
+- le bouton "valider" deviens actif si l'utilisateur à touché le colorpicker
+
